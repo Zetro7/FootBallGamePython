@@ -1,4 +1,4 @@
-# CSC 308 Assignment 1
+# CSC 308 Assignment 4
 # Rudolph Hanzes, Kristen Hartz, Stacy Hartz
 
 import random
